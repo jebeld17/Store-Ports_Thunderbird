@@ -1,4 +1,4 @@
-# Store-Ports_Thunderbird
+# Transparency regarding Thunderbird in the Microsoft Store, via Store Ports.
 You've asked for transparency. We've got it! This repository is for the Thunderbird port project to the Microsoft Store via Store Ports. 
 
 Thunderbird for Windows 10 devices via the Microsoft Store is compiled using a three-step conversion process:
