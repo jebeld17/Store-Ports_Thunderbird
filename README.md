@@ -10,5 +10,5 @@ In addition, every release in the Microsoft Store is verified for authenticity, 
 
 Enjoy Thunderbird on your Windows 10 devices, all without turning S-Mode off!
 
-
+##  Download
 Now that we've got all that out of the way, I'd like to invite you to download Thunderbird in the Microsoft Store at https://www.microsoft.com/store/productId/9PCVBX66LLQF.
